@@ -1,0 +1,1 @@
+Simple example of data parallel training of a flax neural network.
